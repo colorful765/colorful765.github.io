@@ -2,7 +2,7 @@
 
 ## Table of contents:
 
-1. [Background](:background)
+1. [Background](#background)
 2. [Installation](#installation)
 3. [Basic-usage](#basic-usage)
 4. [Deployment](#deployment)
@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Background {:background}
+## 1. Background (#background)
 
 Fastai is an open source project created by Jeremy Howard and Sylvain Gugger, aimed at providing easy-to-use advanced APIs and tools to make deep learning easier to get started and implement.
 
