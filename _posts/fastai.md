@@ -73,6 +73,7 @@ Here are some basic usage procedures for fastai:
 
 The above are just some basic examples of usage, and you need to consider which methods to use when using Fastai.
 
+![fastai](https://github.com/colorful765/colorful765.github.io/assets/133742122/b65c0efc-dddd-44f0-94f7-a2938a0af940)
 
 
 ---
