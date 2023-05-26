@@ -5,6 +5,8 @@
 Deep learning is a new research direction in the field of machine learning, which has been introduced into machine learning to bring it closer to its original goal - artificial intelligence.
 Deep learning is to learn the internal laws and presentation levels of sample data. The information obtained in the learning process is very helpful to the interpretation of data such as text, images and sounds. Its ultimate goal is to enable machines to have the ability to analyze and learn like humans, and to recognize data such as text, images, and sound. Deep learning is a complex machine learning algorithm that has achieved results in speech and image recognition that far exceed previous related technologies.
 
+![deeplearning](https://github.com/colorful765/colorful765.github.io/assets/133742122/a01a0d95-936c-400f-914f-99607d9542df)
+
 ## Features
 
 Deep learning is a general term for a type of pattern analysis method, which mainly involves three types of methods in terms of specific research content:
